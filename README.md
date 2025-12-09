@@ -1,4 +1,3 @@
-# Free-Google-PRO[README.md](https://github.com/user-attachments/files/24053714/README.md)
 # 🎯 Как получить доступ к Google Pro (Gemini Pro и другие сервисы)
 
 <div align="center">
