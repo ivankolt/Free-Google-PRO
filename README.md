@@ -78,9 +78,9 @@
 3. Должна открыться новая вкладка / окно с оформлением
 
 ---
-
+```
 <img width="661" height="914" alt="Screenshot 2025-12-09 163653" src="https://github.com/user-attachments/assets/7a435bd0-a453-4a54-89b3-745f51bc6e4d" />
-
+```
 
 ### ✅ ШАГ 4: Копируем URL активации
 
